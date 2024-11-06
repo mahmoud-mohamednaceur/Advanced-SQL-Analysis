@@ -1,8 +1,5 @@
 # Advanced-SQL-Analysis
 
-
-                                                                                 **Quick set up**  
-
 To run this project, you'll need the following three thing :
 
 1. **SQL Server Express (Free)**: This is the server where the database will reside. You can download it for free from Microsoft's official website.
